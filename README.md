@@ -4,7 +4,7 @@
 - [discord.py](https://github.com/rapptz/discord.py)
 - lots of Python modules
 
-Miuggie12Bot's Dev(https://discordapp.com/api/guilds/1546327729224286208/widget.png?style=banner2)
+[Miuggie12Bot's Dev](https://discordapp.com/api/guilds/1546327729224286208/widget.png?style=banner2)
 **Bot Invite**: `https://discordapp.com/oauth2/authorize?client_id=1546327729224286208=bot&permissions=8`
 
 I won't mind if you take some code to learn or improve but please don't be a skid.
